@@ -1,5 +1,3 @@
-<img width="100%" style="border: 1px solid black" src="https://i.imgur.com/bre34Xl.png">
-
 # FGO Daily Login
 FGO Daily Login is a mod of the repository [FGODailyBonus](https://github.com/hexstr/FGODailyBonus)
 
