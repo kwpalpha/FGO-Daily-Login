@@ -1,6 +1,6 @@
 # FGO Daily Login
 FGO Daily Login is a mod of the repository [FGODailyBonus](https://github.com/hexstr/FGODailyBonus)
-
+aaaa
 It has the following features:
 - No Logs
 - Automatic VerCode Update
